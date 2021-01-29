@@ -4,7 +4,7 @@ Materiały na szkolenie pt. *Przegląd narzędzi do analizy danych dostępnych n
 
 
 1. Oprogramowanie komercyjne dostępne na UEP
-  + SAS, SAS Viya
+  + SAS, SAS Viya for Learners
   + SPSS / PS Imago
   + Statistica
   + OxMetrics
