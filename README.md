@@ -1,6 +1,6 @@
 # Szkolenie: Oprogramowanie zamknięte i otwarte
 
-Materiały na szkolenie pt. *Przegląd narzędzi do analizy danych dostępnych na UEP oraz na otwartej licencji* w ramach [RID](https://ue.poznan.pl/pl/badania-naukowe-uep,c458/ekonomia-w-obliczu-nowej-gospodarki,c12736/) @UEP
+Materiały na szkolenie pt. *Przegląd narzędzi do analizy danych dostępnych na UEP oraz na otwartej licencji* w ramach Projektu [Regionalna Inicjatywa Doskonałości na podstawie umowy nr 004/RID/2018/19 z dnia 28.01.2019, w kwocie 3.000.000 zł.](https://ue.poznan.pl/pl/badania-naukowe-uep,c458/ekonomia-w-obliczu-nowej-gospodarki,c12736/)
 
 
 1. Oprogramowanie komercyjne dostępne na UEP
