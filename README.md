@@ -24,8 +24,9 @@ Materiały na szkolenie pt. *Przegląd narzędzi do analizy danych dostępnych n
 ## Plan szkolenia
 
 1. Wprowadzenie do problemu odtwarzalnych badań
-2. Przegląd dostępnego oprogramowania
-3. Porównanie oprogramowania
-4. Przykłady 
-5. Dalsze kroki
+2. Klikać czy nie klikać?
+3. Przegląd dostępnego oprogramowania
+4. Porównanie oprogramowania
+5. Przykłady 
+6. Dalsze kroki
   
