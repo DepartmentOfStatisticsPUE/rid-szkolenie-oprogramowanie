@@ -14,7 +14,7 @@ Materiały na szkolenie pt. *Przegląd narzędzi do analizy danych dostępnych n
   + Stata 
   + Matlab (ograniczona liczba licencji, komputery w laboratoriach)
   
-3. Oprogramowanie na otwartej licencji:
+3. Oprogramowanie na otwartej licencji (dostępne dla wszystkich)
   + R
   + Python
   + Julia
